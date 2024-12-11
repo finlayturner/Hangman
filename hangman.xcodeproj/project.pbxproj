@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		C96AE02C2C1F40B6009EDD32 /* hangman */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hangman; sourceTree = BUILT_PRODUCTS_DIR; };
 		C96AE02F2C1F40B6009EDD32 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		C96D15582CC94EAB009B9053 /* random-words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "random-words.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		C96AE02E2C1F40B6009EDD32 /* hangman */ = {
 			isa = PBXGroup;
 			children = (
+				C96D15582CC94EAB009B9053 /* random-words.txt */,
 				C96AE02F2C1F40B6009EDD32 /* main.cpp */,
 			);
 			path = hangman;
